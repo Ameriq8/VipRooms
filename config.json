@@ -1,0 +1,19 @@
+{
+    "bot_token": "XXXX",
+    "prefix": "sp",
+    "owners": [
+        "442032295214579712",
+        "OWNER_ID_2"
+    ],
+    "mongo_uri": "XXXX",
+    "game": {
+        "status": "dnd",
+        "type": "WATCHING",
+        "name": [
+            "sphelp",
+            "New Update"
+        ],
+        "url": "STREAM_URL",
+        "interval": 15
+    }
+}

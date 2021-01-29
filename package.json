@@ -1,0 +1,25 @@
+{
+  "name": "prime-system",
+  "version": "1.0.0",
+  "description": "Hi Pig",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [],
+  "author": "! The Leader#0187",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "locale-parser": "^1.0.0",
+    "mongoose": "^5.9.25",
+    "parse-ms": "^2.1.0",
+    "moment": "^2.29.1",
+    "erela.js": "^2.3.1",
+    "http": "^0.0.0",
+    "express": "^4.17.1"
+  }
+}
